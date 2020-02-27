@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)]
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.com/sdevagup/spring-petclinic.svg?branch=master)]
 (https://travis-ci.com/sdevagup/spring-petclinic/builds/150760066)
 Deploy this sample application to Pivotal Web Services:
 
